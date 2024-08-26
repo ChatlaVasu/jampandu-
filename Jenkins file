@@ -19,5 +19,11 @@ pipeline {
                 echo 'em baabu akalesthunda'
             }
         }
+        stage('ala kaadu babu')
+        {
+            steps {
+                echo 'navvusthundara neeku'
+            }
+        }
     }
 }
